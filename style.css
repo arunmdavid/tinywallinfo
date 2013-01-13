@@ -1647,4 +1647,6 @@ img#wpstats {
 }
 /******************MAD********************/
 .mad-topline{height:3px;background-color: #21759B;}
-body, .site{background-image: url('./images/body_bg.png');}
+body, .site{
+	background-image: url('./images/body_bg.png');
+}
