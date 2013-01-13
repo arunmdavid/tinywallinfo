@@ -51,11 +51,11 @@
 			
 			<?php twentytwelve_entry_meta(); ?>
 			
-			<?php if ( comments_open() ) : ?>
+			<?php /*if ( comments_open() ) : ?>
 				<div class="comments-link">
 					<?php comments_popup_link( '<span class="leave-reply">' . __( 'Leave a reply', 'twentytwelve' ) . '</span>', __( '1 Reply', 'twentytwelve' ), __( '% Replies', 'twentytwelve' ) ); ?>
 				</div><!-- .comments-link -->
-			<?php endif; // comments_open() ?>
+			<?php endif; */// comments_open() ?>
 
 
 			<?php edit_post_link( __( 'Edit', 'twentytwelve' ), '<span class="edit-link">', '</span>' ); ?>

@@ -466,13 +466,14 @@ a:hover {
 }
 .site-header h1 a,
 .site-header h2 a {
-	color: #515151;
+	/*color: #515151;*//*MAD*/
 	display: inline-block;
 	text-decoration: none;
 }
 .site-header h1 a:hover,
 .site-header h2 a:hover {
-	color: #21759b;
+	/*color: #21759b;*//*MAD*/
+	color:#0F3647;
 }
 .site-header h1 {
 	font-size: 24px;
@@ -1378,7 +1379,7 @@ img#wpstats {
 	.main-navigation ul.nav-menu,
 	.main-navigation div.nav-menu > ul {
 		border-bottom: 1px solid #ededed;
-		border-top: 1px solid #ededed;
+		/*border-top: 1px solid #ededed;*//*MAD*/
 		display: inline-block !important;
 		text-align: left;
 		width: 100%;
@@ -1646,3 +1647,4 @@ img#wpstats {
 }
 /******************MAD********************/
 .mad-topline{height:3px;background-color: #21759B;}
+body, .site{background-image: url('./images/body_bg.png');}
