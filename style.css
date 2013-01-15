@@ -1350,11 +1350,8 @@ img#wpstats {
 	.site {
 		margin: 0 auto;
 		overflow: hidden;
-		/*MAD*/
-		/*max-width: 960px;
-		max-width: 68.571428571rem;*/
-		max-width: 1100px;
-		max-width: 78.571428571rem;
+		max-width: 960px;
+		max-width: 68.571428571rem;
 	}
 	.site-content {
 		float: left;
