@@ -1,0 +1,25 @@
+<hgroup>
+<div style="float:left;margin-right: 20px;margin-top: 15px;">
+<img src="http://localhost/wordpress/wp-content/themes/tinywallinfo/images/logo.jpg" style="
+    width: 70px;
+">
+</div><div style="float:left">
+			<h1 class="site-title"><a href="http://localhost/wordpress/" title="Tinywall Infomedia" rel="home">Tinywall Infomedia</a></h1>
+			<h2 class="site-description">Get to know what you don't…</h2>
+</div>
+		</hgroup>
+
+
+
+
+
+		<hgroup>
+<div style="margin: 10px auto;width: 70px;">
+<img src="http://localhost/wordpress/wp-content/themes/tinywallinfo/images/logo.jpg" style="
+    width: 70px;
+">
+</div><div style="">
+			<h1 class="site-title"><a href="http://localhost/wordpress/" title="Tinywall Infomedia" rel="home">Tinywall Infomedia</a></h1>
+			<h2 class="site-description">Get to know what you don't…</h2>
+</div>
+		</hgroup>

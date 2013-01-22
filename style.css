@@ -1321,7 +1321,10 @@ a.comment-edit-link:hover {
 	display: block;
 	text-align: right;
 }
-
+/*MAD*/
+	.mad-header-logo{width:75px;margin:0 auto;}
+	.mad-header-title{}
+/*/MAD*/
 
 /* =Plugins
 ----------------------------------------------- */
@@ -1338,6 +1341,10 @@ img#wpstats {
 
 /* Minimum width of 600 pixels. */
 @media screen and (min-width: 601px) {/*MAD*/
+	/*MAD*/
+	.mad-header-logo{float: left;margin-top: 10px;}
+	.mad-header-title{float: left;margin-left: 20px;}
+	/*/MAD*/
 	.author-avatar {
 		float: left;
 		margin-top: 8px;
@@ -1658,3 +1665,4 @@ body, .site{
 	font-size: 130%;
     font-weight: normal;
 }
+.mad-header-logo img{width:75px;height:75px;}
